@@ -1,0 +1,26 @@
+{
+  "expo": {
+    "name": "Mimi - Maternal Alarm",
+    "slug": "mimi-maternal-alarm",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "dark",
+    "splash": {
+      "backgroundColor": "#000001"
+    },
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.mimi.maternalalarm"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#000001"
+      },
+      "package": "com.mimi.maternalalarm"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
