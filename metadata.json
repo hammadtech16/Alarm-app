@@ -1,0 +1,6 @@
+{
+  "name": "Mimi - Maternal Gentle Alarm & Loving Voice Notes",
+  "description": "A comforting maternal alarm clock that gently wakes you with loving motherly speech, daily morning affirmations, custom voice notes, pastel themes, and offline synchronization.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
